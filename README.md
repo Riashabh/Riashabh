@@ -145,93 +145,13 @@ NexHacks CMU Winner — Autonomous agent that detects deployment failures and co
 
 ---
 
-## 💼 Experience
-
-### 🎥 Social Media Manager — ISSC @ ASU
-*Creating impactful content for 10,000+ international students*
-
-- Produce video content, shoot & edit podcasts
-- Create promotional materials and educational resources
-- Drive engagement through cinematic storytelling
-
-### 💻 Software Engineering Intern (Seeking)
-*Building innovative solutions with AI and full-stack development*
-
-- Developed ComponentLab, HowItEnds, ValveScope
-- Won recognition at NexHacks CMU with Sloth AI
-- Strong foundation in React, Python, ML, and DevOps
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riashabh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-## 🎨 Beyond Code
-
-When I'm not coding, I'm creating **cinematic content** inspired by everyday moments. My work focuses on:
-
-- 🎬 Soft visuals with emotional honesty
-- 📸 Introspective storytelling through photography
-- 🎸 Guitar & music exploration
-- 📚 Philosophy (Osho) & Japanese language learning
-
-**Check out my [photography portfolio](https://your-portfolio.com)**
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-```diff
-+ 🏅 NexHacks CMU Winner (Sloth AI) — Arize Recognition
-+ 🤖 Built ComponentLab — AI-Powered Component Generator
-+ 🎬 Produced Video Content for 10,000+ Students at ISSC
-+ 🎸 Presented Musical Analysis: Johnny Marr → Julian Casablancas
-+ 🎓 CS @ Arizona State University (Graduating Spring 2027)
-```
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
-I'm always open to interesting conversations, collaboration opportunities, and connecting with fellow developers!
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meenarishabh35)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@asu.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Current Focus
-
-```javascript
-const rishabh = {
-    location: "Tempe, Arizona",
-    education: "CS @ ASU '27",
-    currentlyLearning: ["Japanese", "Advanced ML", "DevOps"],
-    lookingFor: "Software Engineering Internships Summer 2026",
-    funFact: "I turn everyday moments into cinematic stories 🎬"
-};
-```
 
 </div>
 
