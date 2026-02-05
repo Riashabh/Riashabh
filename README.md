@@ -5,15 +5,6 @@
 CS @ ASU • Building AI-powered tools
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/meenarishabh35)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat)](https://your-portfolio.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Riashabh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 
 </div>
 
@@ -22,16 +13,16 @@ CS @ ASU • Building AI-powered tools
 ## Projects
 
 **[ComponentLab](https://github.com/Riashabh/ComponentLab)** — AI-powered React component generator  
-React • Vite • Tailwind • Express • OpenAI • Sandpack | [Live Demo](https://componentlab-ai.vercel.app)
+React • Tailwind • Express • OpenAI | [Live Demo](https://componentlab-ai.vercel.app)
 
-**[HowItEnds](https://github.com/Riashabh/HowItEnds)** — Movie ending discovery with ML classification  
-FastAPI • React • OpenAI • ML
+**[HowItEnds](https://github.com/Riashabh/HowItEnds)** — Movie ending discovery with ML  
+FastAPI • React • Machine Learning
 
-**[ValveScope](https://github.com/Riashabh/ValveScope)** — Heart sound classification pipeline  
-Python • Scikit-learn • Random Forest • XGBoost
+**[ValveScope](https://github.com/Riashabh/ValveScope)** — Heart sound classification  
+Python • Scikit-learn • Random Forest
 
-**Sloth AI** — Autonomous DevOps agent (NexHacks CMU Winner)  
-Python • OpenAI • DevOps • Multi-agent Systems
+**Sloth AI** — DevOps automation agent (NexHacks CMU Winner)  
+Python • OpenAI • Multi-agent Systems
 
 ---
 
@@ -49,8 +40,31 @@ Python • OpenAI • DevOps • Multi-agent Systems
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/meenarishabh35)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat)](https://your-portfolio.com)
+## GitHub Trophies 🏆
+
+<img src="https://github-profile-trophy.vercel.app/?username=Riashabh&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Riashabh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riashabh/Riashabh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riashabh/Riashabh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Riashabh/Riashabh/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
