@@ -40,34 +40,8 @@ Python • OpenAI • Multi-agent Systems
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Riashabh&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riashabh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
-<div align="center">
-
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Riashabh/Riashabh/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Riashabh&color=58a6ff&style=flat)
 
 </div>
