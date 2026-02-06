@@ -10,14 +10,6 @@ CS @ ASU • Building AI-powered tools
 ---
 <div align="center">
 
-## 📊 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Riashabh&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
----
-<div align="center">
-
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Riashabh/Riashabh/blob/output/github-contribution-grid-snake.svg)
