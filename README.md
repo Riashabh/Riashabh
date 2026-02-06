@@ -40,9 +40,9 @@ Python • OpenAI • Multi-agent Systems
 
 <div align="center">
 
-## GitHub Trophies 🏆
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Riashabh&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+![](https://github-profile-trophy.vercel.app/?username=Riashabh&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
@@ -50,7 +50,7 @@ Python • OpenAI • Multi-agent Systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Riashabh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riashabh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -60,11 +60,7 @@ Python • OpenAI • Multi-agent Systems
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riashabh/Riashabh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riashabh/Riashabh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Riashabh/Riashabh/output/github-contribution-grid-snake.svg">
-</picture>
+![snake gif](https://github.com/Riashabh/Riashabh/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
