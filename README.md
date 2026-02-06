@@ -7,7 +7,14 @@ CS @ ASU • Building AI-powered tools
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/meenarishabh35)
 
 </div>
+---
+<div align="center">
 
+## 📊 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Riashabh&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 ---
 <div align="center">
 
