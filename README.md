@@ -37,15 +37,6 @@ Python • OpenAI • Multi-agent Systems
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
----
-
-<div align="center">
-
-## 🏙️ 3D Contribution Calendar
-
-![](./profile-3d-contrib/profile-gitblock.svg)
-
-</div>
 
 ---
 
