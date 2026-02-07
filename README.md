@@ -41,9 +41,9 @@ Python • OpenAI • Multi-agent Systems
 
 <div align="center">
 
-## 📊 Activity Graph
+## 🏙️ 3D Contribution Calendar
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Riashabh&theme=react-dark&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 </div>
 
