@@ -2,7 +2,7 @@
 
 # Hey, I'm Rishabh 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+ASU;Building+AI-Powered+Tools;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+ASU;Building+Agentic+AI+Systems;Full+Stack+%2B+ML+Engineer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/meenarishabh35)
 
@@ -11,6 +11,13 @@
 ---
 
 ## 🚀 What I'm Building
+
+**[NeuralCut](https://github.com/Riashabh/editing-software)** — Agentic Video Editing Pipeline  
+Drop in raw footage. Get back a publish-ready vertical reel — cuts, reframe, subtitles, all driven by AI with no manual editing.
+
+**Stack:** Python • FFmpeg • Whisper • GPT-4o • Remotion • R3F • FastAPI
+
+---
 
 **[ComponentLab](https://github.com/Riashabh/ComponentLab)** — AI-powered React component generator  
 Transform natural language prompts into production-ready React components with live preview and code editing.
@@ -29,7 +36,7 @@ Transform natural language prompts into production-ready React components with l
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
 
 ---
 
