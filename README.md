@@ -19,14 +19,6 @@ Drop in raw footage. Get back a publish-ready vertical reel — cuts, reframe, s
 
 ---
 
-**[ComponentLab](https://github.com/Riashabh/ComponentLab)** — AI-powered React component generator  
-Transform natural language prompts into production-ready React components with live preview and code editing.
-
-**Stack:** React • Vite • Tailwind • Express • OpenAI API • Sandpack  
-**Live Demo:** [componentlab-ai.vercel.app](https://componentlab-ai.vercel.app)
-
----
-
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
