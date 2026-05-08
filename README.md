@@ -12,8 +12,8 @@
 
 ## 🚀 What I'm Building
 
-**[NeuralCut](https://github.com/Riashabh/editing-software)** — Agentic Video Editing Pipeline  
-Drop in raw footage. Get back a publish-ready vertical reel — cuts, reframe, subtitles, all driven by AI with no manual editing.
+**[WordCut](https://github.com/Riashabh/editing-software)** - Agentic Video Editing Pipeline  
+Drop in raw footage. Get back a publish-ready vertical reel - cuts, reframe, subtitles, all driven by AI with no manual editing.
 
 **Stack:** Python • FFmpeg • Whisper • GPT-4o • Remotion • R3F • FastAPI
 
